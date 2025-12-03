@@ -74,7 +74,7 @@ Esse processo demonstrou o potencial e as limitações da IA generativa aplicada
 
 Abaixo você pode acessar o e-book diretamente pelo GitHub:
 
-https://github.com/Gusta-Almeida/Projeto-Ebook/raw/refs/heads/main/ebook_programacao_introdutorio.pdf
+https://github.com/Gusta-Almeida/Projeto-ebook/blob/22e4a6d2815005368d4b14270b05768caece06b0/ebook_programacao_completo_final.pdf
 
 ---
 
