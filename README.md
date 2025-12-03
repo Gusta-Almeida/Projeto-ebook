@@ -70,6 +70,15 @@ Esse processo demonstrou o potencial e as limitações da IA generativa aplicada
 
 ---
 
+## Download do E-book
+
+Abaixo você pode acessar o e-book diretamente pelo GitHub:
+
+https://github.com/Gusta-Almeida/Projeto-Ebook/raw/refs/heads/main/ebook_programacao_introdutorio.pdf](https://github.com/Gusta-Almeida/Projeto-ebook/blob/main/ebook_programacao_completo_final.pdf
+
+---
+
+
 ## Referências Utilizadas
 
 - Fundamentos de IA Generativa — DIO  
