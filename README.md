@@ -1,4 +1,4 @@
-# Projeto E-book  
+# Projeto E-book: Programação - Conceitos Introdutórios e Curiosidades  
 ### Explorando a criação de conteúdos com IA Generativa através do desenvolvimento de um e-book
 
 ---
